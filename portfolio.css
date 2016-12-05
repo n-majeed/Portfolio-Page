@@ -1,0 +1,72 @@
+.header{
+  background-color:#696969;
+}
+#code{
+  font-size:30px;
+  font-family:Algerian;
+  color:white;
+}
+.target{
+width:90px;
+  height:40px;
+  margin:10px;
+  color:white;
+ }
+.well{
+  background-color:#a8a8a8;
+  }
+.text1{
+  font-size:30px;
+  color:white;
+}
+.img1{
+  background-image:url("http://www.nationaldefensemagazine.org/blog/Lists/Photos/cybersecurity-10242013.jpg");
+  background-position:center;
+background-size:100% 100%;
+}
+.text2{
+  text-align:center;
+  color:white;
+  font-family:Arial Black;
+  font-size:50px;
+}
+.btn2{
+ color:black;
+  border-width:2px;
+  border-color:black;
+}
+.text3{
+  color:black;
+}
+.text4{
+   text-align:center;
+  color:black;
+  font-family:ARIAL BLACK;
+}
+.portfolio_img{
+  border-style:solid;
+  border-width:7px;
+ width:280px;
+  height:270px;
+}
+
+
+/*#1 #2 #3 #4 #6:hover{
+  color:gray;
+}*/
+.img4{
+  background-image:url("http://www07.abb.com/images/default-source/careers/job-ads/bu_software.jpg?Status=Master&sfvrsn=4");
+  background-position:center;
+background-size:100% 100%;
+}
+.img5{
+background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj8u-GMyTIFoMAuMkrkEZOORyReUcdupKNhFNnWBh_KuQvVL2e");
+  background-position:center;
+  background-size:100% 100%;
+  height:300px;
+  }
+.text5{
+  font-size:30px;
+}
+
+
